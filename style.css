@@ -1,0 +1,21 @@
+canvas {
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    top: 50px;
+}
+
+#pong{
+    border: 7px solid darkgreen;
+    border-style:none;
+    box-shadow: 5px 10px green;
+}
+
+#title{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    position: relative;
+    top: 30px;
+}
